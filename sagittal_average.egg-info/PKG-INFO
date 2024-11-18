@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: sagittal_average
+Version: 0.1.0
+Summary: A Python package for calculating sagittal averages.
+Author-email: Your Name <your_email@example.com>
+License: MIT
