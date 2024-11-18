@@ -9,7 +9,7 @@ description = "A Python package for calculating sagittal averages."
 authors = [
     {name = "Your Name", email = "your_email@example.com"}
 ]
-license = "MIT"
+license = { text = "MIT" }
 dependencies = []
 
 [tool.setuptools.packages.find]
